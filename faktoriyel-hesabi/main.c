@@ -36,7 +36,7 @@ int main(void)
     int x_faktoriyeli = faktoriyel(x);
     if (x == -1)
     {
-        printf("Girilen sayı faktöriyel hesabı için geçersizdir!")
+        printf("Girilen sayı faktöriyel hesabı için geçersizdir!");
     }
     else if (x >= 0)
     {
