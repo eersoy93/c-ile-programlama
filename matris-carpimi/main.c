@@ -50,7 +50,6 @@ int main(void)
     }
 
     int C[i][k];
-    int x = 0;
 
     for (int c1 = 0; c1 < i; c1++)
     {
