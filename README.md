@@ -1,7 +1,7 @@
 # C ile Programlama Örnekleri
 C ile programlama hakkında çeşitli örnekler (yapım aşamasında).
 
-Bu örnekler Pardus 21'de denenmiştir.
+Bu örnekler Pardus 21'de GCC derleyicisiyle denenmiştir.
 
 # Çalıştırma
 Pardus gibi Linux dağıtımlarında herhangi bir örneğin dizininde
