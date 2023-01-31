@@ -28,7 +28,7 @@ int main(void)
     {
         for (int c2 = 0; c2 < j; c2++)
         {
-            printf("İlk matrisin %d. satırını ve %d. sütunundaki elemanı giriniz: ", c1 + 1, c2 + 1);
+            printf("İlk matrisin %d. satırındaki ve %d. sütunundaki elemanı giriniz: ", c1 + 1, c2 + 1);
             int eleman = 0;
             scanf(" %d", &eleman);
             A[c1][c2] = eleman;
