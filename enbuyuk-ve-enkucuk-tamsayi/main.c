@@ -20,7 +20,7 @@ int main(void)
     printf("En büyük int sayısı: %d\n", INT_MAX);
     printf("En küçük int sayısı: %d\n", INT_MIN);
     printf("En büyük int sayısı: %u\n", UINT_MAX);
-    printf("En küçük int sayısı: %u\n", 0);
+    printf("En küçük int sayısı: %u\n", 0U);
 
     return EXIT_SUCCESS;
 }
