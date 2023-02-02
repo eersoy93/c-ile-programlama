@@ -54,3 +54,6 @@ dkms.conf
 
 # VS Code içindir.
 .vscode/
+
+# Örneklere özel .gitignore kuralları
+sayilar.txt
