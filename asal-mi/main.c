@@ -9,7 +9,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define DEĞİL 0
+#define DEGIL 0
 #define ASAL 1
 
 _Bool asal_mi(int sayi)
@@ -18,7 +18,7 @@ _Bool asal_mi(int sayi)
     {
         if(sayi % i == 0)
         {
-            return DEĞİL;
+            return DEGIL;
         }
     }
 
