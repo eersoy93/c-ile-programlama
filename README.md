@@ -1,5 +1,5 @@
 # C ile Programlama Örnekleri
-C ile programlama hakkında çeşitli örnekler (yapım aşamasında).
+C ile programlama hakkında çeşitli örnekler.
 
 Bu örnekler Pardus 21'de GCC derleyicisiyle denenmiştir.
 
